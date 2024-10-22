@@ -1,7 +1,7 @@
-*{
+/* *{
     margin: 0%;
     padding: 0%;
-}
+} */
 .main-div{
     display: flex;
     justify-content: center;
@@ -9,6 +9,10 @@
     flex-direction: column;
     /* height: 100vh; */
 
+}
+.imagepo{
+    border: 1px solid;
+    z-index: 1000;
 }
 .haider{
 background-color: lightgray; 
