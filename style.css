@@ -1,0 +1,117 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.main-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    /* height: 100vh; */
+
+}
+.haider{
+background-color: lightgray; 
+
+display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    width: 1000px;
+    flex-direction: column;
+        height: 180px;
+   }
+   .sub-div{
+    margin: 20px 0px;
+   }
+.second-main{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+   .selectContery{
+    display: flex;
+
+   }
+   .studentportal{
+    padding: 5px 10px;
+    border-radius: 20px;
+   }
+
+   select{
+    padding: 15px 10px;
+    margin-top: 10px;
+    width: 500px;
+    border-radius: 10px;
+    border-color: aqua;
+    outline: none;
+   }
+   input{
+    padding: 15px 10px;
+    width: 475px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    border-color: aqua;
+    outline: none;
+    }
+    .addressinput{
+           padding: 15px 10px;
+    width: 1000px;
+    border-radius: 10px;
+    border-color: aqua;
+    outline: none;
+   }
+   .inputtss{
+    margin: 10px;
+    
+   }
+  
+   .image{
+    border: 1px  solid gray ;
+    height: 80px;
+    width: 80px;
+    border-radius: 10px;
+   }
+   .imagediv{
+    margin-left: 150px;
+    display: flex;
+    align-items: start;
+    justify-content: start;
+    gap: 10px;
+   }
+   .paraa{
+    /* height: 200px;   */
+    line-height: 20px;
+    margin-top: 25px;
+    width: 300px;
+    /* border: 1px solid; */
+   }
+   p{
+    font-size: 12px;
+   }
+   hr{
+    width: 75%;
+    margin-bottom: 20px;
+   }
+   .lastdiv{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   flex-direction: column;
+   margin-top: 20px;
+   }
+ .buton{
+    width: 70%;
+    height: 40px;
+    font-size: 20px;
+    outline: none;
+    margin-top: 20px;
+    border: none;
+    background-color: blue;
+    color: antiquewhite;
+    border-radius: 5px;
+    /* margin-left: 160px; */
+
+ }
